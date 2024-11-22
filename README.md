@@ -21,3 +21,6 @@ Python
 Vous pouvez ajouter le model llama que vous utilisez à la suite de localrag.py   
     ex: python localrag.py --model llama3.2:1b
 
+### Changement de paramètres de LLM
+
+Aller dans le fichier localrag.py et modifier la valeur de temperature (0.1 étant la valeur par défaut). Sauvegarder et relancer la conversation avec l'IA.
