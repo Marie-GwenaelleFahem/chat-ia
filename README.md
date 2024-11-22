@@ -1,6 +1,6 @@
 # chat-ia
 
-### Techo
+### Techno
 Ollama => llama3.2
 Python 
 
